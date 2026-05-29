@@ -581,16 +581,16 @@
         },
         {
             "name": "gp10devhts/ug-village-locations",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GP10DevHTS/ug-village-locations.git",
-                "reference": "cbcd802aff8eacc731dee3594bb51809f79fa743"
+                "reference": "149c0d1ba015a898d15a08b73fe4d9d6fef5df1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/GP10DevHTS/ug-village-locations/zipball/cbcd802aff8eacc731dee3594bb51809f79fa743",
-                "reference": "cbcd802aff8eacc731dee3594bb51809f79fa743",
+                "url": "https://api.github.com/repos/GP10DevHTS/ug-village-locations/zipball/149c0d1ba015a898d15a08b73fe4d9d6fef5df1a",
+                "reference": "149c0d1ba015a898d15a08b73fe4d9d6fef5df1a",
                 "shasum": ""
             },
             "require": {
@@ -648,7 +648,7 @@
             ],
             "support": {
                 "issues": "https://github.com/GP10DevHTS/ug-village-locations/issues",
-                "source": "https://github.com/GP10DevHTS/ug-village-locations/tree/v1.0.1"
+                "source": "https://github.com/GP10DevHTS/ug-village-locations/tree/v1.0.2"
             },
             "funding": [
                 {
@@ -656,7 +656,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-05-28T13:23:39+00:00"
+            "time": "2026-05-28T16:42:33+00:00"
         },
         {
             "name": "graham-campbell/result-type",

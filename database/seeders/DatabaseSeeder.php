@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Region;
 use App\Models\User;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
@@ -20,6 +21,10 @@ class DatabaseSeeder extends Seeder
         User::factory()->create([
             'name' => 'Test User',
             'email' => 'test@example.com',
+        ]);
+
+        Region::updateOrCreate([
+            'name' => 'Ug Main Region',
         ]);
     }
 }
